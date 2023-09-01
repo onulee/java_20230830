@@ -8,6 +8,7 @@ public class JA0831_11_성적입력출력 {
 		//입력선언
 		Scanner scan = new Scanner(System.in);
 		
+		
 		//이름,국어,영어,수학,합계,평균
 		String name="";
 		int kor=0;
